@@ -17,7 +17,7 @@ int pumpTstatus = 0;
 #define WIFI_SSID "thesis"
 #define WIFI_PASSWORD "password"
 // Telegram BOT Token (Get from Botfather)
-#define BOT_TOKEN "6478974599:AAEuKm0RnYXFsh9ix7WiUo6aZkrSf2UVN6s"
+#define BOT_TOKEN "***********************************************"
 
 const unsigned long BOT_MTBS = 1000; // mean time between scan messages
 
